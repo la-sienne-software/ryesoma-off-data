@@ -5,11 +5,11 @@ permalink: /support/
 
 # Ryesoma — Support
 
-Ryesoma is made by Weft Witch Labs.
+Ryesoma is made by La Sienne Software.
 
 There is no account and no sign-in. The app is yours, on your phone, and it works offline.
 
-**Contact: [support@weftwitchlabs.com](mailto:support@weftwitchlabs.com)**
+**Contact: [support@lasiennesoftware.com](mailto:support@lasiennesoftware.com)**
 
 When something has gone wrong, the most useful thing you can send is the build stamp at the bottom
 of **Settings** — a short code and a date — along with what you were doing.

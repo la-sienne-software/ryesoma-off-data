@@ -4,7 +4,7 @@ title: Ryesoma
 
 # Ryesoma
 
-By Weft Witch Labs.
+By La Sienne Software.
 
 - [Privacy policy](privacy/)
 - [Support](support/)

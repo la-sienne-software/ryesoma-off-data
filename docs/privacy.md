@@ -9,7 +9,7 @@ permalink: /privacy/
 
 ## The short version
 
-Ryesoma is made by Weft Witch Labs ("we" below). It has no accounts and no server. Everything you record — what you ate, your
+Ryesoma is made by La Sienne Software ("we" below). It has no accounts and no server. Everything you record — what you ate, your
 symptoms, medications, measurements, recipes, photographs — is stored on your device and stays
 there. We do not collect it, we cannot see it, and there is nowhere for us to send it.
 
@@ -127,4 +127,4 @@ in the history of the repository this page is published from.
 
 ## Contact
 
-Questions about this policy: **[support@weftwitchlabs.com](mailto:support@weftwitchlabs.com)**
+Questions about this policy: **[support@lasiennesoftware.com](mailto:support@lasiennesoftware.com)**
